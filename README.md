@@ -5,5 +5,5 @@ A BOT designed to simulate the interview process in live with facial expressions
 - Choices for different carrer options.
 - Vocalizes the questions posted.
 - Works through speech recognition to catpure the phrases essentially required by the employer.
-- Catches the negative speech in the answers given by the interviwee(Bayes method)
+- Catches the negative speech in the answers given by the interviewee(Bayes method)
 - Shows the final result after assessing everything.
